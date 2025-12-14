@@ -1,0 +1,28 @@
+/* https://colorhunt.co/palette/37353e44444e715a5ad3dad9 */
+
+html {
+    background-color: #37353e;
+    color: #d3dad9;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+hr {
+    width: 30%;
+}
+
+a {
+    color: #31748f;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-size: 1.1rem;
+    font-style: italic;
+}
