@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "main";
+    src: url("/assets/fonts/regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "main";
+    src: url("/assets/fonts/bold.woff") format("woff");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "main";
+    src: url("/assets/fonts/italic.woff") format("woff");
+    font-style: italic;
+}
