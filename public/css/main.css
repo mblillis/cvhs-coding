@@ -1,10 +1,12 @@
 /* https://colorhunt.co/palette/37353e44444e715a5ad3dad9 */
 
+@import url(fonts.css);
+
 html {
     background-color: #37353e;
     color: #d3dad9;
     text-align: center;
-    font-family: monospace;
+    font-family: main;
 }
 
 ul {
